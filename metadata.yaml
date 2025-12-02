@@ -1,8 +1,6 @@
 name: stickers-test
 author: vitrevance
 stickers:
-  - alias: sleep
-    ref: https://raw.githubusercontent.com/vitrevance/stickers-test/refs/heads/main/13.png
   - alias: '🤭🥰😍🤩😁😄😸'
     ref: https://raw.githubusercontent.com/vitrevance/stickers-test/refs/heads/main/HiPaint_1762985574864.png
   - alias: '🤯😨😮😱😳🙀'
